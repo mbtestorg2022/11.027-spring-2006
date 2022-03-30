@@ -7,6 +7,7 @@ image_metadata:
   caption: Paths along the waterfront are heavily used.
   credit: Photo by Prof. Cherie Abbanat.
   image-alt: Waterfront path.
+parent_uid: 3d86dfce-ea32-b32b-d063-9fb41405cd30
 resourcetype: Image
 title: Waterfront_Path.jpg
 uid: d3ead54d-0b89-fc84-375c-6c2cec2ba754

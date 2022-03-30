@@ -4,6 +4,7 @@ description: This resource provides information on the topic of presentation of 
   ideas.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/11-027-city-to-city-comparing-researching-and-writing-about-cities-spring-2006/4778289488d9dd67404e095cbee47289_lect2.pdf
 file_type: application/pdf
+parent_uid: 55303748-52d3-9a5b-9b29-5090782fab2b
 resourcetype: Document
 title: lect2.pdf
 uid: 47782894-88d9-dd67-404e-095cbee47289

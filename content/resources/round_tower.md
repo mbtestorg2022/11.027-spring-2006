@@ -7,6 +7,7 @@ image_metadata:
   caption: The Round Tower from the ground.
   credit: Photo by Prof. Cherie Abbanat.
   image-alt: View of the Round Tower.
+parent_uid: 3d86dfce-ea32-b32b-d063-9fb41405cd30
 resourcetype: Image
 title: Round_Tower.jpg
 uid: 4e094995-7ac3-8793-a9fb-a70d9cd4d87f

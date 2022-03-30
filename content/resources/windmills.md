@@ -7,6 +7,7 @@ image_metadata:
   caption: Windmills on the harbor generate a large portion of Denmark's energy.
   credit: Photo by Prof. Cherie Abbanat.
   image-alt: Windmills on the harbor.
+parent_uid: 3d86dfce-ea32-b32b-d063-9fb41405cd30
 resourcetype: Image
 title: Windmills.jpg
 uid: d5f4f29a-4f49-11df-7821-c6e70f0b7553

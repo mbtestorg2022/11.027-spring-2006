@@ -9,6 +9,7 @@ image_metadata:
     around the stations.
   credit: Photo by Prof. Cherie Abbanat.
   image-alt: The new driverless train.
+parent_uid: 3d86dfce-ea32-b32b-d063-9fb41405cd30
 resourcetype: Image
 title: Subway1.jpg
 uid: 6c40e11a-819c-fd2a-1110-311763a4f1af

@@ -9,6 +9,7 @@ image_metadata:
     very rural.
   credit: Photo by Prof. Cherie Abbanat.
   image-alt: Rural Denmark outside of Copenhagen.
+parent_uid: 3d86dfce-ea32-b32b-d063-9fb41405cd30
 resourcetype: Image
 title: Rural.jpg
 uid: 544259fe-4608-b688-d06b-28fe7ed29424

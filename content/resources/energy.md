@@ -9,6 +9,7 @@ image_metadata:
     energy sources.
   credit: Photo by Tejus Kothari.
   image-alt: Energy production on the waterfront.
+parent_uid: 3d86dfce-ea32-b32b-d063-9fb41405cd30
 resourcetype: Image
 title: Energy.jpg
 uid: 24fe496d-68fb-3abc-d8e0-70b33e7c7f73

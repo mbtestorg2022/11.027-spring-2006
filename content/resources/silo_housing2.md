@@ -9,6 +9,7 @@ image_metadata:
     the waterfront pedestrian friendly.
   credit: Photo byTejus Kothari.
   image-alt: Silo housing.
+parent_uid: 3d86dfce-ea32-b32b-d063-9fb41405cd30
 resourcetype: Image
 title: Silo_Housing2.jpg
 uid: c816f5d4-8475-248d-7216-71165ff2ce19

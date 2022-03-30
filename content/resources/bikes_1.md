@@ -7,6 +7,7 @@ image_metadata:
   caption: The biycle is one of the most popular transportation modes in the city.
   credit: Photo by Prof. Cherie Abbanat.
   image-alt: Bicycles racked in a Copenhagen alley.
+parent_uid: 3d86dfce-ea32-b32b-d063-9fb41405cd30
 resourcetype: Image
 title: Bikes_1.jpg
 uid: 856a5f24-a266-a9c2-36cc-80373e5ff7e5

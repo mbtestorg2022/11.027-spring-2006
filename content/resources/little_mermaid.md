@@ -9,6 +9,7 @@ image_metadata:
     culture.'
   credit: Photo by Prof. Cherie Abbanat.
   image-alt: The Little Mermaid statue.
+parent_uid: 3d86dfce-ea32-b32b-d063-9fb41405cd30
 resourcetype: Image
 title: Little_Mermaid.jpg
 uid: e71414b1-053b-9456-8272-74857ca4e182

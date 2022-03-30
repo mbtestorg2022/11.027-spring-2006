@@ -7,6 +7,7 @@ image_metadata:
   caption: Old grain silos on the waterfront were converted into housing.
   credit: Photo by Tejus Kothari.
   image-alt: Housing in old grain silos.
+parent_uid: 3d86dfce-ea32-b32b-d063-9fb41405cd30
 resourcetype: Image
 title: Silo_Housing.jpg
 uid: 21ad3c0f-7738-d393-d289-c91659c1172d

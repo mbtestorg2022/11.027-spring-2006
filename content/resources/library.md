@@ -9,6 +9,7 @@ image_metadata:
     as well.
   credit: Photo by Prof. Cherie Abbanat.
   image-alt: Library on the waterfront.
+parent_uid: 3d86dfce-ea32-b32b-d063-9fb41405cd30
 resourcetype: Image
 title: Library.jpg
 uid: 7d209ef5-fe52-6d5f-b57b-83ce325420d1
